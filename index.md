@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to the Emata User Webpage
 
 You can use the [editor on GitHub](https://github.com/ematauser/ematauser1.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
